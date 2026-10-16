@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-11-25T17:42:39.368105",
+            "datePublished": "2026-10-16T22:26:51.616622",
             "hasPart": [
                 {
                     "@id": "clinicalmp-verification.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#bdede232-69ea-4995-be71-91940e03dc33"
+                    "@id": "#aaa2200b-1d3a-46b7-ad93-8d56a70216f8"
                 }
             ],
             "name": "clinicalmp-verification/main",
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/clinicalmp-verification",
-            "version": "0.1"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
@@ -87,7 +87,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#bdede232-69ea-4995-be71-91940e03dc33",
+            "@id": "#aaa2200b-1d3a-46b7-ad93-8d56a70216f8",
             "@type": "Organization",
             "name": "Pratik Jagtap"
         },
@@ -138,7 +138,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.26"
+            "engineVersion": ">=0.75.47"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
